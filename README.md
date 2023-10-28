@@ -19,12 +19,6 @@
       <td align="center">👦🏻 정민준 (백엔드)</td>
       <td align="center">👦🏻 홍찬희 (프론트엔드)</td>
   </tr>
-  <tr>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
-  </tr>
 </table>
 <br/><br/>
 
