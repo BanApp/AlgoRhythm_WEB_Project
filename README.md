@@ -16,7 +16,7 @@
   <tr>
       <td align="center">👦🏻 김예슬 (백엔드)</td>
       <td align="center">👦🏻 전나현 (프론트엔드)</td>
-      <td align="center">👦🏻 정민준 (백엔드)</td>
+      <td align="center">👦🏻 @@@ (백엔드)</td>
       <td align="center">👦🏻 홍찬희 (프론트엔드)</td>
   </tr>
 </table>
